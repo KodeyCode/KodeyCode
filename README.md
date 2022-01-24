@@ -1,16 +1,14 @@
-### Hi there 👋
+## About Me
 
-<!--
-**KodeyCode/KodeyCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on APG and Alfredo 3.
+- 🌱 I’m currently learning Norwegian.
+- 👯 I’m looking to collaborate on my programming language.
+- 🤔 I’m looking for help with .
+- ⚡ Fun fact: I am fluent in 3 languages.
 
-Here are some ideas to get you started:
+## Links
+My website [website].
+My YT [youtube].
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[website]:https://coderjazz.42web.io
+[youtube]:https://youtube.com/channel/UCC8TqVZL3H7AUkdZhu6oD-A
