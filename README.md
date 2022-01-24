@@ -6,8 +6,8 @@
 - ⚡ Fun fact: I am fluent in 3 languages.
 
 ## Links
-My website [website].
-My YT [youtube].
+My [website].
+My [youtube channel].
 
 [website]:https://coderjazz.42web.io
-[youtube]:https://youtube.com/channel/UCC8TqVZL3H7AUkdZhu6oD-A
+[youtube channel]:https://youtube.com/channel/UCC8TqVZL3H7AUkdZhu6oD-A
