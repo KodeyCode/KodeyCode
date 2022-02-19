@@ -1,8 +1,8 @@
 ## About Me
 
-- 🔭 I’m currently working on APG and Alfredo 3.
+- 🔭 I’m currently working on Webzer.
 - 🌱 I’m currently learning Norwegian.
-- 👯 I’m looking to collaborate on my programming language.
+- 👯 I’m looking to collaborate on Webzer Development.
 - ⚡ Fun fact: I am fluent in 3 languages.
 
 ## Links
